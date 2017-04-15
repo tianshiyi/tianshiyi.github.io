@@ -9,7 +9,7 @@
 .settings {
   height:73px;
   float:left;
-  background-image:url(http://s3.postimg.org/bqfooag4z/startific.jpg);
+  background-image:url(../images/logo.jpg);
   background-repeat:no-repeat;
   width:250px;
   margin:0px;
@@ -24,7 +24,7 @@ font-family: 'Strait', sans-serif;
 .hover {
   height:73px;
   float:left;
-  background-image:url(http://s27.postimg.org/4hhl2szcf/startific_small.jpg);
+  background-image:url(../images/logo.jpg);
   background-repeat:no-repeat;
   width:255px;
   margin:0px;
@@ -64,7 +64,7 @@ opacity:1;
 .main-menu {
 background:#F7F7F7;
 border-right:1px solid #e5e5e5;
-position:absolute;
+position:fixed;
 top:0;
 bottom:0;
 height:100%;
@@ -167,7 +167,7 @@ overflow:visible;
 
 
 .settings:hover, settings:focus {   
-  background:url( http://s3.postimg.org/bqfooag4z/startific.jpg);
+  background:url( ../images/logo.jpg);
 }
 
 
